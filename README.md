@@ -19,7 +19,7 @@ This project is a back-end application that provides a simple platform for user 
 - Express.js
 - JSON Web Tokens (JWT)
 - Background Processing (e.g., Bull, Agenda, or RabbitMQ)
-- Image Processing Library (e.g., Sharp, Jimp, or ImageMagick)
+- Image Processing Library (e.g., Sharp, Jimp, or ImageMagick).
 
 ## Authors
 
